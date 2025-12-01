@@ -1,0 +1,10 @@
+numpy
+sounddevice
+soundfile
+pyttsx3
+pywhatkit
+openai-whisper
+ffmpeg-python
+requests
+psutil
+Recommended OS: Windows 10/11 or Linux
